@@ -1,0 +1,13 @@
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\obj\Release\Assistente.Mapeamentos.csprojResolveAssemblyReference.cache
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\obj\Release\Assistente.Mapeamentos.csproj.CoreCompileInputs.cache
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\Assistente.Mapeamentos.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\Assistente.Mapeamentos.pdb
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\Assist.Entidades.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\FluentNHibernate.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\NHibernate.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\Iesi.Collections.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\Antlr3.Runtime.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\log4net.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\bin\Release\Assist.Entidades.pdb
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\obj\Release\Assistente.Mapeamentos.dll
+C:\Temp\20190202\Assist\Assistente.Mapeamentos\obj\Release\Assistente.Mapeamentos.pdb
