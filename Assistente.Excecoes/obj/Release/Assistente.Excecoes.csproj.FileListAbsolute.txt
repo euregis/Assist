@@ -1,0 +1,6 @@
+C:\Temp\20190202\Assist\Assistente.Excecoes\bin\Release\Assistente.Excecoes.dll
+C:\Temp\20190202\Assist\Assistente.Excecoes\bin\Release\Assistente.Excecoes.pdb
+C:\Temp\20190202\Assist\Assistente.Excecoes\obj\Release\Assistente.Excecoes.csprojResolveAssemblyReference.cache
+C:\Temp\20190202\Assist\Assistente.Excecoes\obj\Release\Assistente.Excecoes.csproj.CoreCompileInputs.cache
+C:\Temp\20190202\Assist\Assistente.Excecoes\obj\Release\Assistente.Excecoes.dll
+C:\Temp\20190202\Assist\Assistente.Excecoes\obj\Release\Assistente.Excecoes.pdb

@@ -1,0 +1,15 @@
+C:\Temp\20190202\Assist\Assist.AcessoDados\obj\Release\Assistente.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Temp\20190202\Assist\Assist.AcessoDados\obj\Release\Assistente.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Assist.AcessoDados.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Assist.AcessoDados.pdb
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Assist.Entidades.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Conexao.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\NHibernate.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\FluentNHibernate.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Iesi.Collections.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Antlr3.Runtime.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\log4net.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Assist.Entidades.pdb
+C:\Temp\20190202\Assist\Assist.AcessoDados\bin\Release\Conexao.pdb
+C:\Temp\20190202\Assist\Assist.AcessoDados\obj\Release\Assist.AcessoDados.dll
+C:\Temp\20190202\Assist\Assist.AcessoDados\obj\Release\Assist.AcessoDados.pdb

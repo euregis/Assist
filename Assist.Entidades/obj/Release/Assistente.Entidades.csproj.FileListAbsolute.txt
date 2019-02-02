@@ -1,0 +1,6 @@
+C:\Temp\20190202\Assist\Assist.Entidades\bin\Release\Assist.Entidades.dll
+C:\Temp\20190202\Assist\Assist.Entidades\bin\Release\Assist.Entidades.pdb
+C:\Temp\20190202\Assist\Assist.Entidades\obj\Release\Assistente.Entidades.csprojResolveAssemblyReference.cache
+C:\Temp\20190202\Assist\Assist.Entidades\obj\Release\Assistente.Entidades.csproj.CoreCompileInputs.cache
+C:\Temp\20190202\Assist\Assist.Entidades\obj\Release\Assist.Entidades.dll
+C:\Temp\20190202\Assist\Assist.Entidades\obj\Release\Assist.Entidades.pdb
